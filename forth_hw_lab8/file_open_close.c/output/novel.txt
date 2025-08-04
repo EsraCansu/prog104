@@ -1,0 +1,2 @@
+A first-order circuit can only contain one energy storage element (a capacitor or an inductor). The circuit will also contain resistance.So there are two types of first-order circuits.
+For the RC circuit in the previous example, it was determined that τ= RC. But what value of R should be used in circuits with multiple resistors?
