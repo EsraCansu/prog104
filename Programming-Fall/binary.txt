@@ -1,0 +1,29 @@
+2500 bytes file
+1 block=512 bytes
+512x5=2560 bytes
+
+512
+512
+*512
+512
+512-60=452 bytes
+
+last block will not be full
+
+read/write at the same file
+byte by byte
+block by block
+
+File* file1;
+fopen() --->file modes: rb  wb ..
+fread()
+fwrite()
+fseek()--->offset:0 1 2 ...
+flose()
+remove()
+rename()
+
+to delete a specific block from a file, temporary file logic must be used. However, you can change the bytes of a binary file directly.
+
+
+
